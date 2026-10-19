@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudyGate</string>
+    <string name="accessibility_description">偵測目前前景 App，並在開啟已選 App 時顯示 StudyGate 答題頁。</string>
+</resources>
